@@ -48,7 +48,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-muted-foreground/20 text-center">
-          <p>&copy; 2024 E-Shop. All rights reserved.</p>
+          <p>&copy; 2024 FeizhouStore. All rights reserved.</p>
         </div>
       </div>
     </footer>
