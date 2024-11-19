@@ -12,7 +12,7 @@ const Header = () => {
       <div className="container mx-auto py-4 px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-3xl font-extrabold tracking-tight text-primary">
-            E-Shop
+            FeizhouStore
           </Link>
           <nav className="hidden md:flex space-x-6 text-sm font-medium">
             <Link href="#" className="text-primary/80 hover:text-primary transition-colors">New Arrivals</Link>
